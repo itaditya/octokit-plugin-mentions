@@ -11,5 +11,13 @@
   "license": "ISC",
   "peerDependencies": {
     "@octokit/rest": "^14.0.9"
+  },
+  "homepage": "https://github.com/itaditya/octokit-plugin-mentions#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaditya/octokit-plugin-mentions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itaditya/octokit-plugin-mentions/issues"
   }
 }
