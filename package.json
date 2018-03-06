@@ -1,0 +1,15 @@
+{
+  "name": "octokit-plugin-mentions",
+  "version": "1.0.0",
+  "description": "It allows you to parse the names of users mentioned in a github comment easily",
+  "main": "index.js",
+  "scripts": {
+    "patch-release": "npm version patch && npm publish"
+  },
+  "keywords": ["github", "octokit", "github-api", "mentions"],
+  "author": "Aditya Agarwal @itaditya (adi.surge.sh)",
+  "license": "ISC",
+  "peerDependencies": {
+    "@octokit/rest": "^14.0.9"
+  }
+}
