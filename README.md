@@ -27,3 +27,7 @@ octokit.getMentions({ comment }) // Call the plugin methods
 * `cd` into demo folder and run `npm link octokit-plugin-mentions`.
 * Now make changes in the `index.js` and test it via `demo/demo.js` file.
 * When you are ready create a branch and submit a PR.
+
+### Is this Tested ?
+
+Yes, the plugin is tested with [Tape](https://github.com/substack/tape).

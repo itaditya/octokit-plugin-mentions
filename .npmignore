@@ -1,3 +1,4 @@
 demo
 *.log
 .DS-Store
+getMentions.spec.js
